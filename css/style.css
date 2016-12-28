@@ -33,3 +33,15 @@ h1 {
   text-align: center;
   padding-top: 13px;
 }
+
+.faq li {
+  padding: 20px;
+}
+
+.faq li.q {
+  background: #eee;
+  font-weight: bold;
+  font-size: 120%;
+  border-bottom: 1px #ddd solid;
+  cursor: pointer;
+}
